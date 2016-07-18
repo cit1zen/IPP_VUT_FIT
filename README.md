@@ -2,7 +2,7 @@
 
 ## DKA 8/10 a.k.a. Determinizácia konečného automatu
 
-Tento projekt bol strašná kravina.
+Tento projekt je utrpenie.
 
 Strávil som na ňom pár dní, kým aspoň trochu fungoval.
 
